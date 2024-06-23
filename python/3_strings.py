@@ -5,7 +5,7 @@ print('hi \n how are you')
 print('welcome \"user\" ')
 # lower() and upper function in string
 # lower case and upper case function
-# islower() and isupper() can check the strings in upper or lower
+# islower() and isupper() can check the strings in upper or lower.
 print(name.lower().islower())
 
 # lenght function
