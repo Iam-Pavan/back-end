@@ -10,7 +10,7 @@ print(countries[-1])
 print(countries[4])
 # 
 print(countries[1:3])
-# [2] is index value and another [2] is inside value index
+# [2] is index value and another [2] is  value 
 print(countries[2][2])
 print(countries[5])
 
